@@ -1,1 +1,1 @@
-# Mahdi
+Mathematics student specializing in backend software engineering. I apply structural thinking and algorithmic optimization to backend architectures and database systems, focusing on writing clean, maintainable, and high-performance code.
